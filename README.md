@@ -49,6 +49,7 @@ Now calling `.setBlur(20)`
 
 <img src="imgs/example_2.png" width="300">
 
+if loading image though `Picasso` or `Glide` need to call `blurImageView.setBlur(radius)` after getting their imageLoadedSuccessfully callBack
 
 ### :warning: IMPORTANT
 **MAX_RADIUS = 25**
